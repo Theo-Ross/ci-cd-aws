@@ -14,6 +14,8 @@ Research how you can create Gifs from screen recordings, demo the following:
   - Show pipeline running in Jenkins -> Show ci pipeline triggers build pipeline
   - Show updated instance
 
+![Recording](Recording.gif)
+
 _Feel free to add more to the points above_
 
 ---
@@ -33,3 +35,5 @@ _Feel free to add more to the points above_
 ### How did you get the CI project to trigger the CD build?
 
 ---
+
+[def]: Recording.gif
