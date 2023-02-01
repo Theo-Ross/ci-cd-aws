@@ -14,7 +14,7 @@ Research how you can create Gifs from screen recordings, demo the following:
   - Show pipeline running in Jenkins -> Show ci pipeline triggers build pipeline
   - Show updated instance
 
-![Recording](CICD.gif)
+Video example: https://gifyu.com/image/SmUIF
 
 _Feel free to add more to the points above_
 
@@ -48,5 +48,3 @@ By changing the security group in my EC2 I added the option for "JenkinsDeployme
 Using a post-build action in Jenkins called "build other projects" I was able to trigger a build only if the CI was successful.
 
 ---
-
-[def]: Recording.gif
